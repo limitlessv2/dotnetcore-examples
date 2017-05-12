@@ -1,0 +1,8 @@
+/Users/pablorivas/Documents/netcore/scratchpad/bin/Debug/netcoreapp1.1/scratchpad.deps.json
+/Users/pablorivas/Documents/netcore/scratchpad/bin/Debug/netcoreapp1.1/scratchpad.runtimeconfig.json
+/Users/pablorivas/Documents/netcore/scratchpad/bin/Debug/netcoreapp1.1/scratchpad.runtimeconfig.dev.json
+/Users/pablorivas/Documents/netcore/scratchpad/bin/Debug/netcoreapp1.1/scratchpad.dll
+/Users/pablorivas/Documents/netcore/scratchpad/bin/Debug/netcoreapp1.1/scratchpad.pdb
+/Users/pablorivas/Documents/netcore/scratchpad/obj/Debug/netcoreapp1.1/scratchpad.AssemblyInfo.cs
+/Users/pablorivas/Documents/netcore/scratchpad/obj/Debug/netcoreapp1.1/scratchpad.dll
+/Users/pablorivas/Documents/netcore/scratchpad/obj/Debug/netcoreapp1.1/scratchpad.pdb
